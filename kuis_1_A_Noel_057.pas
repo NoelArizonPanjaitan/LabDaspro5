@@ -4,7 +4,8 @@ var
     nama,alamat:string;
     kom:char;
     nim:longint;
- begin
+    
+begin
     clrscr;
     write('Masukkan Nama Anda: ');
     readln(nama);
