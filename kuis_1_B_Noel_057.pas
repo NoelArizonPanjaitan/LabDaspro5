@@ -3,7 +3,8 @@ uses crt;
 var
     a,c:string;
     b,d:integer;
- begin 
+    
+begin 
     clrscr;
     write('Jalan: ');
     readln(a);
