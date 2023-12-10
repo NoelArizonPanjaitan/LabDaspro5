@@ -1,0 +1,18 @@
+Kartu Hasil Studi
+=================
+                 
+Nama      : Noel Arizon Panjaitan
+NIM       : 231401057
+                 
+|=============================================|
+| No |Matkul                           |Nilai |
+|=============================================|
+| 1 . |Matematika Dasar                 |A    |
+| 2 . |Logika Matematika                |A    |
+| 3 . |Organisasi Arsitektur Komputer   |A    |
+| 4 . |Dasar Pemrograman                |A    |
+| 5 . |Lab Dasar Pemrograman            |A    |
+|=============================================|
+                 
+Total SKS   : 15
+IP Semester : 4.00
